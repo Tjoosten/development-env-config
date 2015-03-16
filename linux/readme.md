@@ -1,4 +1,4 @@
-Development Environment *Linux*
+Development Environment *(Linux)*
 =================================
 
 Config is a basic checklist I follow to set up a new Linux development environment. s
@@ -10,3 +10,7 @@ It gets me up to speed with Git, Ruby, GitHub, Jekyll, and more so I can more qu
 
 - Download and install `tasksel`.
 - Download and install `LAMP` server.
+
+## Communication
+
+- [ ] Download and install `irssi`.
