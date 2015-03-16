@@ -1,4 +1,4 @@
-[Linux]: Development Environment *PHP*
+[Linux]: Development Environment *(PHP)*
 =================================
 
 Config is a basic checklist I follow to set up a new Linux development environment. s
@@ -8,11 +8,14 @@ It gets me up to speed with Git, Ruby, GitHub, Jekyll, and more so I can more qu
 
 ### 1. Prep the terminal
 
-1. Download and install `git`
-2. Download and install `tasksel`.
-3. Download and install `LAMP` server.
+- [ ] Download and install `git`
+  - Command: `sudo apt-get install git`.
+- [ ] Download and install `tasksel`.
+  - Command: `sudo apt-get install tasksel`.
+- [ ] Download and install `LAMP` server.
+- [ ] Download an install `DBMS` System.
 
 ## Communication
 
-1. Download and install `irssi`.
+- [ ] Download and install `irssi`.
   - Command: `sudo apt-get install irssi`
