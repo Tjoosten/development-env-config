@@ -8,14 +8,14 @@ It gets me up to speed with Git, Ruby, GitHub, Jekyll, and more so I can more qu
 
 ### 1. Prep the terminal.
 
-- [ ] Download and install `git`: `sudo apt-get install git`.
-- [ ] Download and install `tasksel`: `sudo apt-get install tasksel`.
-- [ ] Download and install `LAMP` server.
-- [ ] Download an install `DBMS` System.
+- [ ] Download and install git: `sudo apt-get install git`.
+- [ ] Download and install tasksel: `sudo apt-get install tasksel`.
+- [ ] Download and install LAMP server.
+- [ ] Download an install DBMS System.
 
 ## 2. Communication.
 
-- [ ] Download and install `irssi`: `sudo apt-get install irssi`
+- [ ] Download and install irssi: `sudo apt-get install irssi`
 
 ## 3. Secure Git(Hub) access.
 
