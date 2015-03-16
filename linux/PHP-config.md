@@ -8,10 +8,10 @@ It gets me up to speed with Git, Ruby, GitHub, Jekyll, and more so I can more qu
 
 ### 1. Prep the terminal.
 
-- Download and install git: `sudo apt-get install git`.
-- Download and install tasksel: `sudo apt-get install tasksel`.
-- Download and install LAMP server.
-- Download an install DBMS System.
+- Download and install git:         `sudo apt-get install git`.
+- Download and install tasksel:     `sudo apt-get install tasksel`.
+- Download and install LAMP server: `sudo apt)get install mysql-server`
+- Download an install DBMS System:  `install it with tasksel`
 
 ## 2. Communication.
 
@@ -29,7 +29,8 @@ It gets me up to speed with Git, Ruby, GitHub, Jekyll, and more so I can more qu
 
 ## 5. Download & install dependencies.
 
-All the `.phar` files are placed and located in the `directory`.
+All the `.phar` files are placed and located in the `/usr/local/bin/apigen` and make sure if u do `sudo chown +x filename.phar`,
+**filename** with the name of the downloaded phar file.
 
-- Download composer package manager.
-- Download ApiGen:
+- Download composer:  `curl -sS https://getcomposer.org/installer | php`
+- Download ApiGen:    `wget http://apigen.org/apigen.phar`
