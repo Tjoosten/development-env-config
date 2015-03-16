@@ -29,8 +29,9 @@ It gets me up to speed with Git, Ruby, GitHub, Jekyll, and more so I can more qu
 
 ## 5. Download & install dependencies.
 
-All the `.phar` files are placed and located in the `/usr/local/bin/apigen` and make sure if u do `sudo chown +x filename.phar`,
-**filename** with the name of the downloaded phar file.
+All the `.phar` files are placed and located in the `/usr/local/bin/apigen`.
+
+And make sure if u do `sudo chown +x filename.phar`, replace **filename** with the name of the downloaded phar file.
 
 - Download composer:  `curl -sS https://getcomposer.org/installer | php`
 - Download ApiGen:    `wget http://apigen.org/apigen.phar`
