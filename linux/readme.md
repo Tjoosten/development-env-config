@@ -21,4 +21,9 @@ It gets me up to speed with Git, Ruby, GitHub, Jekyll, and more so I can more qu
 
 ## 4. Setup editor *(Atom)*
 
-## 5. Download & install dependencies
+## 5. Download & install dependencies.
+
+All the `.phar` files are placed and located in the `directory`.
+
+- [ ] Download composer package manager.
+- [ ] Download ApiGen:
