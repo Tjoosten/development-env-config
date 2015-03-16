@@ -13,4 +13,5 @@ It gets me up to speed with Git, Ruby, GitHub, Jekyll, and more so I can more qu
 
 ## Communication
 
-- Download and install `irssi`. - `sudo apt-get install irssi`
+- Download and install `irssi`.
+  - Command: `sudo apt-get install irssi`
