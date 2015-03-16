@@ -1,4 +1,4 @@
-Development Environment *(Linux)*
+[Linux]: Development Environment *PHP*
 =================================
 
 Config is a basic checklist I follow to set up a new Linux development environment. s
