@@ -8,4 +8,4 @@ So i can quickly back to coding.
 
 Yup, it does. Hopefully it does on yours as well, but please don't hate me if it doesn't.
 
-<3 (@Xorif)[https://www.twitter.com/Xorif]
+<3, (Xorif)[https://www.twitter.com/Xorif]
