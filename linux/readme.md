@@ -8,8 +8,9 @@ It gets me up to speed with Git, Ruby, GitHub, Jekyll, and more so I can more qu
 
 ### 1. Prep the terminal
 
-- Download and install `tasksel`.
-- Download and install `LAMP` server.
+1. Download and install `git`
+2. Download and install `tasksel`.
+3. Download and install `LAMP` server.
 
 ## Communication
 
