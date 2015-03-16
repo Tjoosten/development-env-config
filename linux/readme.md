@@ -18,8 +18,14 @@ It gets me up to speed with Git, Ruby, GitHub, Jekyll, and more so I can more qu
 - [ ] Download and install irssi: `sudo apt-get install irssi`
 
 ## 3. Secure Git(Hub) access.
+- [ ] (Generate a SSH key)[https://help.github.com/articles/generating-ssh-keys/]
+- [ ] (Generate an access token)[https://help.github.com/articles/creating-an-access-token-for-command-line-use/] for Terminal to auth your GitHus account when 2FA is enabled
 
 ## 4. Setup editor *(Atom)*
+
+- [ ] Install Atom itself
+- [ ] Add Spacegray UI theme and Ocean Dark color scheme.
+- [ ] Eanble `Atom` terminal commands: form Atom.app, open the Atom menu and select *Install Shell Commands*.
 
 ## 5. Download & install dependencies.
 
