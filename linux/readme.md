@@ -6,7 +6,7 @@ It gets me up to speed with Git, Ruby, GitHub, Jekyll, and more so I can more qu
 
 ## Checklist
 
-### 1. Prep the terminal
+### 1. Prep the terminal.
 
 - [ ] Download and install `git`
   - Command: `sudo apt-get install git`.
@@ -15,7 +15,11 @@ It gets me up to speed with Git, Ruby, GitHub, Jekyll, and more so I can more qu
 - [ ] Download and install `LAMP` server.
 - [ ] Download an install `DBMS` System.
 
-## Communication
+## 2. Communication.
 
 - [ ] Download and install `irssi`.
   - Command: `sudo apt-get install irssi`
+
+## 3. Secure Git(Hub) access.
+
+## 4. Setup editor *(Atom)*
