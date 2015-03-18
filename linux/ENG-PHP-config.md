@@ -10,8 +10,8 @@ It gets me up to speed with Git, Ruby, GitHub, Jekyll, and more so I can more qu
 
 - Download and install git:         `sudo apt-get install git`.
 - Download and install tasksel:     `sudo apt-get install tasksel`.
-- Download and install LAMP server: `sudo apt)get install mysql-server`
-- Download an install DBMS System:  `install it with tasksel`
+- Download and install LAMP server: `do it via tasksel`
+- Download an install DBMS System:  `install it with mysql-server`
 
 ## 2. Communication.
 
