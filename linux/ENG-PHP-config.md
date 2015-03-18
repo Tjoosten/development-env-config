@@ -11,23 +11,23 @@ It gets me up to speed with Git, Ruby, GitHub, Jekyll, and more so I can more qu
 - Download and install git:         `sudo apt-get install git`.
 - Download and install tasksel:     `sudo apt-get install tasksel`.
 - Download and install LAMP server: `do it via tasksel`
-- Download an install DBMS System:  `install it with mysql-server`
+- Download and install DBMS System:  `sudo apt-get install mysql-server`
 
-## 2. Communication.
+### 2. Communication.
 
 - Download and install irssi: `sudo apt-get install irssi`
 
-## 3. Secure Git(Hub) access.
+### 3. Secure Git(Hub) access.
 - [Generate a SSH key](https://help.github.com/articles/generating-ssh-keys/).
 - [Generate an access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) for Terminal to auth your GitHub  account when 2FA is. enabled
 
-## 4. Setup editor *(Atom)*
+### 4. Setup editor *(Atom)*
 
 - Install Atom itself
 - Add Spacegray UI theme and Ocean Dark color scheme.
 - Enable `Atom` terminal commands: form Atom.app, open the Atom menu and select *Install Shell Commands*.
 
-## 5. Download & install dependencies.
+### 5. Download & install dependencies.
 
 All the `.phar` files are placed and located in the `/usr/local/bin/apigen`. <br />
 And make sure if u do `sudo chown +x filename.phar`, replace **filename** with the name of the downloaded phar file.

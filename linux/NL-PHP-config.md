@@ -15,3 +15,8 @@ Config is een basis lijst dat ik volg voor het opzetten van een nieuwe, Linux on
 ### 2. Communicatie
 
 - Download en installeer irssi: `sudo apt-get install irssi`.
+
+### 3. Veilige Git(Hub) toegang.
+
+- [Genereer een SSH sleutel](https://help.github.com/articles/generating-ssh-keys/).
+- [Genereer een toegangs token]((https://help.github.com/articles/creating-an-access-token-for-command-line-use/) Voor de terminal voor je GitHub account wanneer 2FA actief is.
